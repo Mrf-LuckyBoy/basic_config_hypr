@@ -1,0 +1,27 @@
+* {
+  font-family: "JetBrainsMono Nerd Font", sans-serif;
+  font-size: 13px;
+  border: none;
+}
+
+window#waybar {
+  background: rgba(20, 20, 20, 0.85);
+  color: #ffffff;
+}
+
+#workspaces button {
+  padding: 0 8px;
+  color: #bbbbbb;
+}
+
+#workspaces button.active {
+  color: #ffffff;
+}
+
+#clock,
+#pulseaudio,
+#network,
+#bluetooth,
+#battery {
+  padding: 0 10px;
+}
