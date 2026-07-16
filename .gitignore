@@ -7,3 +7,6 @@
 
 # system files
 .DS_Store
+
+# images — wallpapers/ is the drop-box for personal PNGs; not tracked
+*.png
